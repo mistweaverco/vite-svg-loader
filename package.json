@@ -1,0 +1,26 @@
+{
+  "name": "@mistweaverco/vite-svg-loader",
+  "version": "1.0.0",
+  "description": "Vite plugin to load raw SVG files",
+  "keywords": [
+    "vite",
+    "svg"
+  ],
+  "main": "index.js",
+  "types": "index.d.ts",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistweaverco/vite-svg-loader.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mistweaverco/vite-svg-loader/issues"
+  },
+  "homepage": "https://github.com/mistweaverco/vite-svg-loader#readme"
+}
